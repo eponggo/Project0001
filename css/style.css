@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+}
+.header{
+background-color: chocolate;
+text-align: center;
+height: 100px;
+padding-top: 50px;
+}
+.header h1{
+    color: rgb(0, 0, 0);
+}
+.banner{
+background-color: goldenrod;
+height: 300px;
+text-align: center;
+padding-top: 150px;
+}
+..banner h1{
+background-color: gray;
+
+}
+
+.left_content{
+background-color: chocolate;
+width: 50%;
+height: 200px;
+text-align: center;
+float: left;
+padding-top: 100px;
+}
+.left_content h1{
+    color: darkgreen;
+
+
+}
+.right_content{
+    background-color: rgb(59, 26, 1);
+    width: 50%;
+    height: 200px;
+    text-align: center;
+    float: right;
+    padding-top: 100px;
+}
+.right_content h1{
+    color: rgb(255, 255, 255);
+
+}
+.content{
+    overflow:hidden
+}
+
+.content_one{
+    background-color: gold;
+    width: 33.33%;
+    height: 200px;
+    text-align: center;
+    float: left;
+    padding-top: 16.1px;
+
+}
+.content_one h1{
+    color: rgb(7, 6, 3);
+
+}
+
+.content_tow{
+    background-color: rgb(48, 41, 1);
+    width: 33.33%;
+    height: 200px;
+    text-align: center;
+    float: left;
+    padding-top: 16.1px;
+
+
+}
+.content_tow h1{
+    color: gold;
+
+}
+.contentone{
+    overflow: hidden;
+}
+.content_three{
+    background-color: rgb(39, 39, 37);
+    width: 33.33%;
+    height: 200px;
+    text-align: center;
+    float: left;
+    padding-top: 16.1px;
+
+}
+.content_three h1{
+    color: rgb(250, 10, 10);
+
+}
+
+.footer{
+    background-color: lightsalmon;
+    text-align: center;
+    height: 150px;
+    padding-top: 75px;
+}
+.footer h1{
+    color: maroon;
+}
+
